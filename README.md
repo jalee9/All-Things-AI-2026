@@ -252,3 +252,13 @@ This repository is built on the belief that:
 - Students should learn to structure problems
 - AI should be used as a thinking partner
 - Human judgment is more important than ever
+
+---
+
+## 📜 License
+
+This work is dedicated to the public domain under CC0 1.0.
+
+You are free to use, remix, adapt, and share these materials without restriction.
+
+If this work supports your teaching or learning, I’d love to hear how you’re using it.
