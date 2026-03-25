@@ -16,6 +16,9 @@
 - [Human in the Loop](#-8-human-in-the-loop-your-sweet-spot)
 - [Teaching Implications](#-9-what-this-means-for-our-courses-actionable)
 - [Closing Insight](#-10-closing-insight)
+- [Suggested use](#-11-suggested-use)
+- [Philosphy](#-12-philosophy)
+- [License](#-13-license)
 
 ---
 
@@ -235,7 +238,7 @@ But:
 
 ---
 
-## 📎 Suggested Use
+## 📎11. Suggested Use
 
 - Faculty development sessions  
 - Teaching & Learning workshops  
@@ -244,7 +247,7 @@ But:
 
 ---
 
-## 🌱 Philosophy
+## 🌱 12. Philosophy
 
 AI does not replace thinking—it redistributes it.
 
@@ -255,7 +258,7 @@ This repository is built on the belief that:
 
 ---
 
-## 📜 License
+## 📜 13. License
 
 This work is dedicated to the public domain under CC0 1.0.
 
