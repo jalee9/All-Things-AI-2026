@@ -31,11 +31,11 @@ Learn how to use AI effectively, think critically, and build skills that matter 
 
 ---
 
-## 🎞️ Quick Start for Students
+## 🎞️ Video Recap for Students
 
-Start here before using AI in your coursework:
+A short video recap (9 min) below:
 
-➡️ *Coming Soon*
+➡️ [All Things AI 2026 Recap for Students](https://waketech.video.yuja.com/V/Video?v=15699810&node=67716188&a=58421460)
 
 ---
 
